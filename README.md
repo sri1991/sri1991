@@ -1,6 +1,6 @@
 # Bharani Srinivas
 
-Machine Learning Engineer with a focus on NLP and full-stack product development.
+AI/ML Solutions Architect with a focus on NLP and full-stack product development.
 I build systems that make complex knowledge accessible — currently working on
 AI-powered tools at the intersection of LLMs, RAG, and TypeScript.
 
@@ -30,8 +30,8 @@ and CBDT circulars. Fuse.js fuzzy search with 95%+ source text coverage.
 
 ## Currently
 
-- Machine Learning Engineer at **Standard Chartered**
-- Building AI-powered tools for Indian tax compliance
+- AI/ML Solutions Architect at **Pathsetter**
+- Building AI-powered tools
 - Exploring: structured LLM output, document intelligence, agentic workflows
 
 ---
